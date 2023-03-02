@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main() {
-   /* Use this */
-	return 0;
+int main(viod)
+{
+ /* Use this */
+"return 0";
 }
 
